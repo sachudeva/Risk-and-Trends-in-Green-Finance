@@ -24,5 +24,14 @@ To use these notebooks, ensure you have the necessary dependencies installed. Yo
 - Python 3.x
 - List other dependencies or libraries needed to run the notebooks
 
+## References
+
+1. "Applications of Intelligent Model to Analyze the Green Finance for Environmental Development in the Context of Artificial Intelligence"
+2. "Research on the Green Finance Development Model of Commercial Banks Based on FinTech" by Weijiang Cui*. Department of Computer Science and Engineering, S. A. Engineering College (Autonomous), Poonam
+3. "The Green Credit Policy Impact on the Financial Performance of Commercial Banks: A Quasi-Natural Experiment from China" by Xiaoyan Gao and Yiyang Guo
+4. ClimateChange.ai Blog - [Link](https://www.climatechange.ai/blog/2022-11-09-climate-finance)
+
+
+
 ## License
 Specify the license for this project. For instance: This project is licensed under the [MIT License](link-to-license).
